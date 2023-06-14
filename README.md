@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Julius Emil Arendt, I'm a CS student based<br>near Bielefeld in Germany. <br><br>I'm currently in my 4th semestre and currently applying for <br>student jobs in software engineering.
+Hi, my name is Julius Emil Arendt, I'm a CS student based<br>near Bielefeld in Germany. <br><br>I'm currently in my 4th semestre and currently working for klose brothers GmbH in Bielefeld<br>
 
 
 ## 🌐 Socials:
