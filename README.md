@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on: Discord-Bot<br>🌱 I’m currently learning: Blender, Kubernetes<br>💬 Ask me about: Java Spring Boot, Java<br>⚡ Fun fact: "I am able to do squats with one leg only :)"
+💻 My current job: working student in fullstack development at klose brothers gmbh in Bielefeld, Germany<br>
+🔭 I’m currently working on: Discord-Bot<br>
+🌱 I’m currently learning: Blender, Kubernetes<br>
+💬 Ask me about: Java Spring Boot, Java<br>
+⚡ Fun fact: "I am able to do squats with one leg only :)"
 
 
 ## 🌐 Socials:
