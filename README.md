@@ -1,5 +1,9 @@
 # 💫 About Me:
-💻 My current job: working student as fullstack dev at klose brothers gmbh in Bielefeld, Germany<br><br>🔭 I’m currently working on<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+💻 My current job: working student as fullstack dev at klose brothers gmbh in Bielefeld, Germany<br><br>
+🔭 I’m currently working on: an fullstack-template for developing applications<br>
+🌱 I’m currently learning: Spring Microservices, Apache Kafka, Spring Security<br>
+💬 Ask me about: Vue.js, TDD, CSS, Java, Java Spring Boot<br>
+⚡ Fun fact: I can cook and I go to the gym for about 5 times a week, I like bouldering and swimming.
 
 
 ## 🌐 Socials:
