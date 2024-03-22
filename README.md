@@ -1,10 +1,15 @@
 # 💫 About Me:
-💻 My current job: working student as fullstack dev at klose brothers gmbh in Bielefeld, Germany<br><br>
-🔭 I’m currently working on: an fullstack-template for developing applications<br>
-🌱 I’m currently learning: Spring Microservices, Apache Kafka, Spring Security<br>
-💬 Ask me about: Vue.js, TDD, CSS, Java, Java Spring Boot<br>
-⚡ Fun fact: I can cook and I go to the gym for about 5 times a week, I like bouldering and swimming.
+💻 **My current job:** working student as fullstack dev at klose brothers gmbh in Bielefeld, Germany<br>
+🔭 **I’m currently working on:** an fullstack-template for developing applications<br>
+🌱 **I’m currently learning:** Spring Microservices
+💬 **Ask me about:** Vue.js, TDD, Java, Spring Boot
 
+### Learning-List
+
+- Spring Microservices
+- Docker
+- Kubernetes
+- Terraform
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/N5vFTXfJ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/julius.rndt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julius-emil-arendt-2a53a5266) 
