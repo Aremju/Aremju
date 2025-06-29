@@ -7,9 +7,8 @@
 ### Learning-List
 
 - Spring Microservices
-- Docker
 - Kubernetes
-- Terraform
+- Nix Package Manager
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/N5vFTXfJ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/julius.rndt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julius-emil-arendt-2a53a5266) 
