@@ -1,6 +1,6 @@
 # 💫 About Me:
 💻 **My current job:** working student (M.Sc. Computer Science) as fullstack dev at klose brothers gmbh in Bielefeld, Germany<br>
-🔭 **I’m currently working on:** an fullstack-template for developing applications<br>
+🔭 **I’m currently working on:** strAIghtflush - a two-agent based ML model for segmentation of playing cards.
 🌱 **I’m currently learning:** Spring Microservices
 💬 **Ask me about:** Vue.js, TDD, Java, Spring Boot
 
